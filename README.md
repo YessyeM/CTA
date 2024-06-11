@@ -14,3 +14,5 @@ Yifu Zhu  Jiaxu Meng <br>
 * CTA_ver2: implement CTA strategy with optimal (ADX, BIAS) pairs for all contracts to generate trade records, daily PnLs, and performance metrics<br>
 * **CTA_ver3: implement CTA strategy for all contracts in monetary basis [theorectically enough initial capital]<br>**
 * __CTA_ver4: allocate initial captial=1000000 to implement CTA strategy for all contracts [iterate through each trading date over all tradeable contracts]<br>__
+## install and implement
+create an environment using <span style="background-color: #f0f0f0;">conda</span>
