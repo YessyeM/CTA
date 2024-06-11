@@ -15,4 +15,4 @@ Yifu Zhu  Jiaxu Meng <br>
 * **CTA_ver3: implement CTA strategy for all contracts in monetary basis [theorectically enough initial capital]<br>**
 * __CTA_ver4: allocate initial captial=1000000 to implement CTA strategy for all contracts [iterate through each trading date over all tradeable contracts]<br>__
 ## install and implement
-create an environment using <span style="background-color: #f0f0f0;">conda</span>
+create an environment using <code>conda</code>
