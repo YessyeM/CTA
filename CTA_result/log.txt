@@ -1,0 +1,1201 @@
+PS C:\Users\meng\Desktop\quant> & C:/Users/meng/AppData/Local/miniforge3/envs/quant/python.exe c:/Users/meng/Desktop/quant/example/CTA_ver33.py
+Contract Code: BON
+CODE                      BON
+LONG/SHORT               LONG
+ADX_OPTIMAL              15.0
+BIAS_OPTIMAL             16.0
+RUN_OR_NOT                RUN
+MULTIPLIER              600.0
+Gain-to-Pain Ratio     1.7066
+Final Profits         10.7379
+Number of Trades        947.0
+Name: 0, dtype: object
+Successfully read CTA_data\BON.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\BON.csv and saved trade record to CTA_result\BON_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.06952919947571996
+Max Drawdown Per Trade: 0.007208287720756212
+Gain-to-Pain Ratio Per Trade: 1.6910970602613036
+Processed C:/Users/meng/Desktop/quant/CTA_data\BON.csv and saved daily record to CTA_result\BON_long_daily.xlsx
+Sharpe Ratio Daily: 0.03922918830653532
+Max Drawdown Daily: 0.007206383102797864
+Gain-to-Pain Ratio Daily: 1.2491731389702851
+Final Profit: 11.38849972172248
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     BON
+LONG/SHORT             SHORT
+ADX_OPTIMAL             40.0
+BIAS_OPTIMAL            -6.0
+RUN_OR_NOT               NaN
+MULTIPLIER             600.0
+Gain-to-Pain Ratio    3.1587
+Final Profits         0.1262
+Number of Trades        43.0
+Name: 1, dtype: object
+Skipping CTA_result\BON_long_daily.xlsx as per strategy instruction.
+Contract Code: BOZ
+CODE                     BOZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             35.0
+BIAS_OPTIMAL            14.0
+RUN_OR_NOT               RUN
+MULTIPLIER             600.0
+Gain-to-Pain Ratio    2.0735
+Final Profits         3.4243
+Number of Trades       199.0
+Name: 2, dtype: object
+Successfully read CTA_data\BOZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\BOZ.csv and saved trade record to CTA_result\BOZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.08118143805622607
+Max Drawdown Per Trade: 0.0019545136100125315
+Gain-to-Pain Ratio Per Trade: 1.9287004092573814
+Processed C:/Users/meng/Desktop/quant/CTA_data\BOZ.csv and saved daily record to CTA_result\BOZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.020289507634645664
+Max Drawdown Daily: 0.003660853691877408
+Gain-to-Pain Ratio Daily: 1.2643721397015855
+Final Profit: 3.1808558191595058
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     BOZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             40.0
+BIAS_OPTIMAL           -16.0
+RUN_OR_NOT               NaN
+MULTIPLIER             600.0
+Gain-to-Pain Ratio    2.8164
+Final Profits         0.2204
+Number of Trades        49.0
+Name: 3, dtype: object
+Skipping CTA_result\BOZ_long_daily.xlsx as per strategy instruction.
+Contract Code: CCN
+CODE                    CCN
+LONG/SHORT             LONG
+ADX_OPTIMAL             NaN
+BIAS_OPTIMAL            NaN
+RUN_OR_NOT              NaN
+MULTIPLIER            18.75
+Gain-to-Pain Ratio      NaN
+Final Profits           NaN
+Number of Trades        NaN
+Name: 4, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\CCN.csv as per strategy instruction.
+CODE                     CCN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL           -12.0
+RUN_OR_NOT               RUN
+MULTIPLIER             18.75
+Gain-to-Pain Ratio    1.5146
+Final Profits         0.2147
+Number of Trades       161.0
+Name: 5, dtype: object
+Successfully read CTA_data\CCN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\CCN.csv and saved trade record to CTA_result\CCN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.10637685799395
+Max Drawdown Per Trade: 0.021708702159711657
+Gain-to-Pain Ratio Per Trade: 1.5145838723490936
+Processed C:/Users/meng/Desktop/quant/CTA_data\CCN.csv and saved daily record to CTA_result\CCN_short_daily.xlsx
+Sharpe Ratio Daily: 0.018589633295517022
+Max Drawdown Daily: 0.021708702159711657
+Gain-to-Pain Ratio Daily: 1.3799068029359123
+Final Profit: 0.21466172864703606
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: CCZ
+CODE                     CCZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             40.0
+BIAS_OPTIMAL             8.0
+RUN_OR_NOT               RUN
+MULTIPLIER             18.75
+Gain-to-Pain Ratio    1.9684
+Final Profits         1.9019
+Number of Trades       116.0
+Name: 6, dtype: object
+Successfully read CTA_data\CCZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\CCZ.csv and saved trade record to CTA_result\CCZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.10782342497230979
+Max Drawdown Per Trade: 0.16565607606553923
+Gain-to-Pain Ratio Per Trade: 1.9684040769008988
+Processed C:/Users/meng/Desktop/quant/CTA_data\CCZ.csv and saved daily record to CTA_result\CCZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.01970500964853192
+Max Drawdown Daily: 0.19194011738538896
+Gain-to-Pain Ratio Daily: 1.3858538636039757
+Final Profit: 1.9019333628145345
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     CCZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL           -12.0
+RUN_OR_NOT               RUN
+MULTIPLIER             18.75
+Gain-to-Pain Ratio    2.1772
+Final Profits         0.4181
+Number of Trades       153.0
+Name: 7, dtype: object
+Successfully read CTA_data\CCZ.csv after preprocessing.
+Processed CTA_result\CCZ_long_daily.xlsx and saved trade record to CTA_result\CCZ_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.15889886013257778
+Max Drawdown Per Trade: 0.012139416696235417
+Gain-to-Pain Ratio Per Trade: 2.08915992143574
+Processed CTA_result\CCZ_long_daily.xlsx and saved daily record to CTA_result\CCZ_short_daily.xlsx
+Sharpe Ratio Daily: 0.028443190525014816
+Max Drawdown Daily: 0.013439443633616932
+Gain-to-Pain Ratio Daily: 1.7577629106273973
+Final Profit: 0.38639715530552626
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: CDZ
+CODE                     CDZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             40.0
+BIAS_OPTIMAL             5.0
+RUN_OR_NOT               NaN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.3101
+Final Profits         0.2797
+Number of Trades       127.0
+Name: 8, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\CDZ.csv as per strategy instruction.
+CODE                     CDZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             40.0
+BIAS_OPTIMAL           -14.0
+RUN_OR_NOT               NaN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.1038
+Final Profits         0.0161
+Number of Trades       119.0
+Name: 9, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\CDZ.csv as per strategy instruction.
+Contract Code: CLN
+CODE                     CLN
+LONG/SHORT              LONG
+ADX_OPTIMAL             10.0
+BIAS_OPTIMAL            22.0
+RUN_OR_NOT               NaN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.1374
+Final Profits          3.281
+Number of Trades      1257.0
+Name: 10, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\CLN.csv as per strategy instruction.
+CODE                     CLN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL           -30.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.7073
+Final Profits         0.3845
+Number of Trades       179.0
+Name: 11, dtype: object
+Successfully read CTA_data\CLN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\CLN.csv and saved trade record to CTA_result\CLN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.1282872677948334
+Max Drawdown Per Trade: 0.0007692369485969852
+Gain-to-Pain Ratio Per Trade: 1.7073325374793504
+Processed C:/Users/meng/Desktop/quant/CTA_data\CLN.csv and saved daily record to CTA_result\CLN_short_daily.xlsx
+Sharpe Ratio Daily: 0.018815162140043112
+Max Drawdown Daily: 0.0009063834732290221
+Gain-to-Pain Ratio Daily: 1.455856440281444
+Final Profit: 0.38448159426594497
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: CLZ
+CODE                     CLZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             15.0
+BIAS_OPTIMAL             8.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.2444
+Final Profits         5.0274
+Number of Trades      1203.0
+Name: 12, dtype: object
+Successfully read CTA_data\CLZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\CLZ.csv and saved trade record to CTA_result\CLZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.04291671394074569
+Max Drawdown Per Trade: 0.01666178174291133
+Gain-to-Pain Ratio Per Trade: 1.2444411506040416
+Processed C:/Users/meng/Desktop/quant/CTA_data\CLZ.csv and saved daily record to CTA_result\CLZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.01972371514774558
+Max Drawdown Daily: 0.016720327496973164
+Gain-to-Pain Ratio Daily: 1.103983571530878
+Final Profit: 5.027376416661096
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     CLZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             15.0
+BIAS_OPTIMAL           -14.0
+RUN_OR_NOT               NaN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.1204
+Final Profits         0.3087
+Number of Trades       520.0
+Name: 13, dtype: object
+Skipping CTA_result\CLZ_long_daily.xlsx as per strategy instruction.
+Contract Code: CN
+CODE                      CN
+LONG/SHORT              LONG
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL            20.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.7862
+Final Profits          3.574
+Number of Trades       260.0
+Name: 14, dtype: object
+Successfully read CTA_data\CN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\CN.csv and saved trade record to CTA_result\CN_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.10397987837079185
+Max Drawdown Per Trade: 0.02676090303307377
+Gain-to-Pain Ratio Per Trade: 1.9224070675506786
+Processed C:/Users/meng/Desktop/quant/CTA_data\CN.csv and saved daily record to CTA_result\CN_long_daily.xlsx
+Sharpe Ratio Daily: 0.021231142221261937
+Max Drawdown Daily: 0.04690368355689789
+Gain-to-Pain Ratio Daily: 1.227979436867465
+Final Profit: 3.991439331395378
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                      CN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             20.0
+BIAS_OPTIMAL           -16.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.8035
+Final Profits         0.8715
+Number of Trades       401.0
+Name: 15, dtype: object
+Successfully read CTA_data\CN.csv after preprocessing.
+Processed CTA_result\CN_long_daily.xlsx and saved trade record to CTA_result\CN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.10972708452674536
+Max Drawdown Per Trade: 0.004858436594410098
+Gain-to-Pain Ratio Per Trade: 1.714458912477517
+Processed CTA_result\CN_long_daily.xlsx and saved daily record to CTA_result\CN_short_daily.xlsx
+Sharpe Ratio Daily: 0.027012348465319715
+Max Drawdown Daily: 0.006026086008622533
+Gain-to-Pain Ratio Daily: 1.5939572745296153
+Final Profit: 0.7746306201645311
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: CTN
+CODE                     CTN
+LONG/SHORT              LONG
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL            16.0
+RUN_OR_NOT               RUN
+MULTIPLIER             500.0
+Gain-to-Pain Ratio    1.7147
+Final Profits         5.8762
+Number of Trades       344.0
+Name: 16, dtype: object
+Successfully read CTA_data\CTN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\CTN.csv and saved trade record to CTA_result\CTN_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.08633992646740157
+Max Drawdown Per Trade: 0.009635769052345422
+Gain-to-Pain Ratio Per Trade: 1.7223682492318662
+Processed C:/Users/meng/Desktop/quant/CTA_data\CTN.csv and saved daily record to CTA_result\CTN_long_daily.xlsx
+Sharpe Ratio Daily: 0.024766367513043654
+Max Drawdown Daily: 0.013068781243285366
+Gain-to-Pain Ratio Daily: 1.2568496008359042
+Final Profit: 5.938357730085819
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     CTN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             35.0
+BIAS_OPTIMAL            -8.0
+RUN_OR_NOT               RUN
+MULTIPLIER             500.0
+Gain-to-Pain Ratio    1.5298
+Final Profits         0.2276
+Number of Trades       125.0
+Name: 17, dtype: object
+Successfully read CTA_data\CTN.csv after preprocessing.
+Processed CTA_result\CTN_long_daily.xlsx and saved trade record to CTA_result\CTN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.13285767947967775
+Max Drawdown Per Trade: 0.0006439187958678927
+Gain-to-Pain Ratio Per Trade: 1.7229915889444434
+Processed CTA_result\CTN_long_daily.xlsx and saved daily record to CTA_result\CTN_short_daily.xlsx
+Sharpe Ratio Daily: 0.01928582490746638
+Max Drawdown Daily: 0.0006910353682061388
+Gain-to-Pain Ratio Daily: 1.568268291355764
+Final Profit: 0.3106586482852911
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: CTZ
+CODE                     CTZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL            12.0
+RUN_OR_NOT               RUN
+MULTIPLIER             500.0
+Gain-to-Pain Ratio    2.4701
+Final Profits         7.6333
+Number of Trades       344.0
+Name: 18, dtype: object
+Successfully read CTA_data\CTZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\CTZ.csv and saved trade record to CTA_result\CTZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.12735153205181857
+Max Drawdown Per Trade: 0.005647913911197344
+Gain-to-Pain Ratio Per Trade: 2.489230476794416
+Processed C:/Users/meng/Desktop/quant/CTA_data\CTZ.csv and saved daily record to CTA_result\CTZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.04000750036429225
+Max Drawdown Daily: 0.006878261038480327
+Gain-to-Pain Ratio Daily: 1.4548567672640629
+Final Profit: 7.701453275396555
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     CTZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             35.0
+BIAS_OPTIMAL           -16.0
+RUN_OR_NOT               NaN
+MULTIPLIER             500.0
+Gain-to-Pain Ratio    1.5598
+Final Profits          0.207
+Number of Trades       121.0
+Name: 19, dtype: object
+Skipping CTA_result\CTZ_long_daily.xlsx as per strategy instruction.
+Contract Code: CZ
+CODE                     CZ
+LONG/SHORT             LONG
+ADX_OPTIMAL            30.0
+BIAS_OPTIMAL           14.0
+RUN_OR_NOT              RUN
+MULTIPLIER             50.0
+Gain-to-Pain Ratio    1.802
+Final Profits         4.355
+Number of Trades      284.0
+Name: 20, dtype: object
+Successfully read CTA_data\CZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\CZ.csv and saved trade record to CTA_result\CZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.09326631672283511
+Max Drawdown Per Trade: 0.04287042969952215
+Gain-to-Pain Ratio Per Trade: 1.7497924545840047
+Processed C:/Users/meng/Desktop/quant/CTA_data\CZ.csv and saved daily record to CTA_result\CZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.02243098672661141
+Max Drawdown Daily: 0.05822478654328267
+Gain-to-Pain Ratio Daily: 1.2403911608347078
+Final Profit: 4.1874367351824855
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                      CZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             20.0
+BIAS_OPTIMAL            -8.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.2249
+Final Profits         0.3561
+Number of Trades       471.0
+Name: 21, dtype: object
+Successfully read CTA_data\CZ.csv after preprocessing.
+Processed CTA_result\CZ_long_daily.xlsx and saved trade record to CTA_result\CZ_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.05768833851812082
+Max Drawdown Per Trade: 0.007071683035614007
+Gain-to-Pain Ratio Per Trade: 1.3273218687505404
+Processed CTA_result\CZ_long_daily.xlsx and saved daily record to CTA_result\CZ_short_daily.xlsx
+Sharpe Ratio Daily: 0.016202632612287417
+Max Drawdown Daily: 0.007557356185721842
+Gain-to-Pain Ratio Daily: 1.2843394575972764
+Final Profit: 0.5023333628914491
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: DXZ
+CODE                     DXZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             10.0
+BIAS_OPTIMAL             5.0
+RUN_OR_NOT               RUN
+MULTIPLIER             500.0
+Gain-to-Pain Ratio    1.6516
+Final Profits         4.7935
+Number of Trades      1146.0
+Name: 22, dtype: object
+Successfully read CTA_data\DXZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\DXZ.csv and saved trade record to CTA_result\DXZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.05894987538047161
+Max Drawdown Per Trade: 0.00785793157082082
+Gain-to-Pain Ratio Per Trade: 2.089811466299817
+Processed C:/Users/meng/Desktop/quant/CTA_data\DXZ.csv and saved daily record to CTA_result\DXZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.027053897946073734
+Max Drawdown Daily: 0.008806009345249
+Gain-to-Pain Ratio Daily: 1.4085148526428777
+Final Profit: 7.996566300362499
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                    DXZ
+LONG/SHORT            SHORT
+ADX_OPTIMAL             NaN
+BIAS_OPTIMAL            NaN
+RUN_OR_NOT              NaN
+MULTIPLIER            500.0
+Gain-to-Pain Ratio      NaN
+Final Profits           NaN
+Number of Trades        NaN
+Name: 23, dtype: object
+Skipping CTA_result\DXZ_long_daily.xlsx as per strategy instruction.
+Contract Code: GCZ
+CODE                     GCZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             10.0
+BIAS_OPTIMAL             7.0
+RUN_OR_NOT               RUN
+MULTIPLIER             100.0
+Gain-to-Pain Ratio    1.4284
+Final Profits         4.8955
+Number of Trades      1168.0
+Name: 24, dtype: object
+Successfully read CTA_data\GCZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\GCZ.csv and saved trade record to CTA_result\GCZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.056999524752690385
+Max Drawdown Per Trade: 0.07774039765032148
+Gain-to-Pain Ratio Per Trade: 1.4102039390628671
+Processed C:/Users/meng/Desktop/quant/CTA_data\GCZ.csv and saved daily record to CTA_result\GCZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.02834996864268432
+Max Drawdown Daily: 0.08854052953755476
+Gain-to-Pain Ratio Daily: 1.1524728198149334
+Final Profit: 4.9533796833939
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     GCZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL           -14.0
+RUN_OR_NOT               NaN
+MULTIPLIER             100.0
+Gain-to-Pain Ratio    1.2017
+Final Profits         0.0659
+Number of Trades       139.0
+Name: 25, dtype: object
+Skipping CTA_result\GCZ_long_daily.xlsx as per strategy instruction.
+Contract Code: HGZ
+CODE                     HGZ
+LONG/SHORT              LONG
+ADX_OPTIMAL              NaN
+BIAS_OPTIMAL             NaN
+RUN_OR_NOT               NaN
+MULTIPLIER            1250.0
+Gain-to-Pain Ratio       NaN
+Final Profits            NaN
+Number of Trades         NaN
+Name: 26, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\HGZ.csv as per strategy instruction.
+CODE                     HGZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL            -5.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1250.0
+Gain-to-Pain Ratio    1.3109
+Final Profits         0.1402
+Number of Trades       153.0
+Name: 27, dtype: object
+Successfully read CTA_data\HGZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\HGZ.csv and saved trade record to CTA_result\HGZ_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.06835198278519714
+Max Drawdown Per Trade: 2.3780457421018752e-05
+Gain-to-Pain Ratio Per Trade: 1.3432851648038755
+Processed C:/Users/meng/Desktop/quant/CTA_data\HGZ.csv and saved daily record to CTA_result\HGZ_short_daily.xlsx
+Sharpe Ratio Daily: 0.010723867257144947
+Max Drawdown Daily: 2.4686429383802277e-05
+Gain-to-Pain Ratio Daily: 1.2775606938041253
+Final Profit: 0.14819115435022376
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: JYZ
+CODE                         JYZ
+LONG/SHORT                  LONG
+ADX_OPTIMAL                  NaN
+BIAS_OPTIMAL                 NaN
+RUN_OR_NOT                   NaN
+MULTIPLIER            62500000.0
+Gain-to-Pain Ratio           NaN
+Final Profits                NaN
+Number of Trades             NaN
+Name: 28, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\JYZ.csv as per strategy instruction.
+CODE                         JYZ
+LONG/SHORT                 SHORT
+ADX_OPTIMAL                 40.0
+BIAS_OPTIMAL                -4.0
+RUN_OR_NOT                   NaN
+MULTIPLIER            62500000.0
+Gain-to-Pain Ratio        1.1892
+Final Profits             0.0352
+Number of Trades           129.0
+Name: 29, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\JYZ.csv as per strategy instruction.
+Contract Code: KCN
+CODE                     KCN
+LONG/SHORT              LONG
+ADX_OPTIMAL             15.0
+BIAS_OPTIMAL             6.0
+RUN_OR_NOT               NaN
+MULTIPLIER             375.0
+Gain-to-Pain Ratio    1.1953
+Final Profits         2.9393
+Number of Trades      1000.0
+Name: 30, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\KCN.csv as per strategy instruction.
+CODE                     KCN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             25.0
+BIAS_OPTIMAL           -18.0
+RUN_OR_NOT               RUN
+MULTIPLIER             375.0
+Gain-to-Pain Ratio    1.8161
+Final Profits         0.7318
+Number of Trades       283.0
+Name: 31, dtype: object
+Successfully read CTA_data\KCN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\KCN.csv and saved trade record to CTA_result\KCN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.11899209462775931
+Max Drawdown Per Trade: 0.002598772287221829
+Gain-to-Pain Ratio Per Trade: 1.6831263321298733
+Processed C:/Users/meng/Desktop/quant/CTA_data\KCN.csv and saved daily record to CTA_result\KCN_short_daily.xlsx
+Sharpe Ratio Daily: 0.025935926616843012
+Max Drawdown Daily: 0.0026178341017578655
+Gain-to-Pain Ratio Daily: 1.5688866595376436
+Final Profit: 0.6305889335724735
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: KCZ
+CODE                     KCZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL             6.0
+RUN_OR_NOT               RUN
+MULTIPLIER             375.0
+Gain-to-Pain Ratio    1.6121
+Final Profits         2.1325
+Number of Trades       231.0
+Name: 32, dtype: object
+Successfully read CTA_data\KCZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\KCZ.csv and saved trade record to CTA_result\KCZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.0676173500270039
+Max Drawdown Per Trade: 0.011126919483930964
+Gain-to-Pain Ratio Per Trade: 1.3914377992102651
+Processed C:/Users/meng/Desktop/quant/CTA_data\KCZ.csv and saved daily record to CTA_result\KCZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.020258854938915445
+Max Drawdown Daily: 0.011357886737491274
+Gain-to-Pain Ratio Daily: 1.4208034604203381
+Final Profit: 2.097599624770339
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     KCZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             25.0
+BIAS_OPTIMAL           -16.0
+RUN_OR_NOT               NaN
+MULTIPLIER             375.0
+Gain-to-Pain Ratio    1.2808
+Final Profits         0.2537
+Number of Trades       265.0
+Name: 33, dtype: object
+Skipping CTA_result\KCZ_long_daily.xlsx as per strategy instruction.
+Contract Code: KWN
+CODE                     KWN
+LONG/SHORT              LONG
+ADX_OPTIMAL             35.0
+BIAS_OPTIMAL            12.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.7035
+Final Profits         3.7875
+Number of Trades       223.0
+Name: 34, dtype: object
+Successfully read CTA_data\KWN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\KWN.csv and saved trade record to CTA_result\KWN_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.08155673744376123
+Max Drawdown Per Trade: 0.06981162120548878
+Gain-to-Pain Ratio Per Trade: 1.6964141847325067
+Processed C:/Users/meng/Desktop/quant/CTA_data\KWN.csv and saved daily record to CTA_result\KWN_long_daily.xlsx
+Sharpe Ratio Daily: 0.02198878327421298
+Max Drawdown Daily: 0.07472406792415365
+Gain-to-Pain Ratio Daily: 1.3387288095095198
+Final Profit: 3.7505314247599033
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     KWN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             25.0
+BIAS_OPTIMAL           -16.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.5568
+Final Profits         0.5062
+Number of Trades       251.0
+Name: 35, dtype: object
+Successfully read CTA_data\KWN.csv after preprocessing.
+Processed CTA_result\KWN_long_daily.xlsx and saved trade record to CTA_result\KWN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.07630904493612245
+Max Drawdown Per Trade: 0.011252352984660097
+Gain-to-Pain Ratio Per Trade: 1.4742631976222251
+Processed CTA_result\KWN_long_daily.xlsx and saved daily record to CTA_result\KWN_short_daily.xlsx
+Sharpe Ratio Daily: 0.01584124967099816
+Max Drawdown Daily: 0.012195296256522825
+Gain-to-Pain Ratio Daily: 1.39659400187333
+Final Profit: 0.4366903606152421
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: KWZ
+CODE                     KWZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             35.0
+BIAS_OPTIMAL            14.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    2.2051
+Final Profits         6.7864
+Number of Trades       240.0
+Name: 36, dtype: object
+Successfully read CTA_data\KWZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\KWZ.csv and saved trade record to CTA_result\KWZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.12225094245678379
+Max Drawdown Per Trade: 0.06533962301744389
+Gain-to-Pain Ratio Per Trade: 2.194750298300466
+Processed C:/Users/meng/Desktop/quant/CTA_data\KWZ.csv and saved daily record to CTA_result\KWZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.03541016106583572
+Max Drawdown Daily: 0.0748409221843519
+Gain-to-Pain Ratio Daily: 1.4839671604869737
+Final Profit: 6.75301075063056
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     KWZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL           -16.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio     1.496
+Final Profits         0.2675
+Number of Trades       155.0
+Name: 37, dtype: object
+Successfully read CTA_data\KWZ.csv after preprocessing.
+Processed CTA_result\KWZ_long_daily.xlsx and saved trade record to CTA_result\KWZ_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.08101488687543158
+Max Drawdown Per Trade: 0.005508035856507276
+Gain-to-Pain Ratio Per Trade: 1.5341961583360821
+Processed CTA_result\KWZ_long_daily.xlsx and saved daily record to CTA_result\KWZ_short_daily.xlsx
+Sharpe Ratio Daily: 0.014840978515380932
+Max Drawdown Daily: 0.005742653439856582
+Gain-to-Pain Ratio Daily: 1.446859014484009
+Final Profit: 0.28810372152601665
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: LCN
+CODE                     LCN
+LONG/SHORT              LONG
+ADX_OPTIMAL             35.0
+BIAS_OPTIMAL             6.0
+RUN_OR_NOT               NaN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.3198
+Final Profits         0.4433
+Number of Trades       159.0
+Name: 38, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\LCN.csv as per strategy instruction.
+CODE                     LCN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             35.0
+BIAS_OPTIMAL           -18.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.4554
+Final Profits         0.1316
+Number of Trades       169.0
+Name: 39, dtype: object
+Successfully read CTA_data\LCN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\LCN.csv and saved trade record to CTA_result\LCN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.09771085777896542
+Max Drawdown Per Trade: 0.0007484305725485862
+Gain-to-Pain Ratio Per Trade: 1.455381425027448
+Processed C:/Users/meng/Desktop/quant/CTA_data\LCN.csv and saved daily record to CTA_result\LCN_short_daily.xlsx
+Sharpe Ratio Daily: 0.017516564758647147
+Max Drawdown Daily: 0.0007468471952430944
+Gain-to-Pain Ratio Daily: 1.4076338757291382
+Final Profit: 0.1315634975961843
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: LCZ
+CODE                     LCZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             20.0
+BIAS_OPTIMAL             3.0
+RUN_OR_NOT               NaN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.1183
+Final Profits           0.72
+Number of Trades       876.0
+Name: 40, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\LCZ.csv as per strategy instruction.
+CODE                     LCZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL            -8.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.3128
+Final Profits         0.1049
+Number of Trades       210.0
+Name: 41, dtype: object
+Successfully read CTA_data\LCZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\LCZ.csv and saved trade record to CTA_result\LCZ_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.05786589287497694
+Max Drawdown Per Trade: 0.0004914072745685338
+Gain-to-Pain Ratio Per Trade: 1.2958131633838863
+Processed C:/Users/meng/Desktop/quant/CTA_data\LCZ.csv and saved daily record to CTA_result\LCZ_short_daily.xlsx
+Sharpe Ratio Daily: 0.012383761104792277
+Max Drawdown Daily: 0.0005050637404496738
+Gain-to-Pain Ratio Daily: 1.252593937218158
+Final Profit: 0.10755042120631467
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: LHN
+CODE                     LHN
+LONG/SHORT              LONG
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL             8.0
+RUN_OR_NOT               NaN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.2547
+Final Profits         0.9331
+Number of Trades       277.0
+Name: 42, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\LHN.csv as per strategy instruction.
+CODE                     LHN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL           -26.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.5625
+Final Profits         0.3313
+Number of Trades       241.0
+Name: 43, dtype: object
+Successfully read CTA_data\LHN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\LHN.csv and saved trade record to CTA_result\LHN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.05013438527814535
+Max Drawdown Per Trade: 0.002047312672916246
+Gain-to-Pain Ratio Per Trade: 1.4970474624709396
+Processed C:/Users/meng/Desktop/quant/CTA_data\LHN.csv and saved daily record to CTA_result\LHN_short_daily.xlsx
+Sharpe Ratio Daily: 0.010211703658793545
+Max Drawdown Daily: 0.002046336509788471
+Gain-to-Pain Ratio Daily: 1.4056009442601174
+Final Profit: 0.3573965806391576
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: LHZ
+CODE                     LHZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             40.0
+BIAS_OPTIMAL             3.0
+RUN_OR_NOT               NaN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    3.2079
+Final Profits         0.4698
+Number of Trades        47.0
+Name: 44, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\LHZ.csv as per strategy instruction.
+CODE                     LHZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             20.0
+BIAS_OPTIMAL           -14.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1000.0
+Gain-to-Pain Ratio    1.2736
+Final Profits         0.3172
+Number of Trades       431.0
+Name: 45, dtype: object
+Successfully read CTA_data\LHZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\LHZ.csv and saved trade record to CTA_result\LHZ_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.06299455330452136
+Max Drawdown Per Trade: 0.0012795226068835763
+Gain-to-Pain Ratio Per Trade: 1.2832186417307583
+Processed C:/Users/meng/Desktop/quant/CTA_data\LHZ.csv and saved daily record to CTA_result\LHZ_short_daily.xlsx
+Sharpe Ratio Daily: 0.016556629988072426
+Max Drawdown Daily: 0.001321649112412504
+Gain-to-Pain Ratio Daily: 1.2225529566549944
+Final Profit: 0.32836731723216167
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: SBN
+CODE                     SBN
+LONG/SHORT              LONG
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL            12.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1120.0
+Gain-to-Pain Ratio    2.0551
+Final Profits         7.7085
+Number of Trades       360.0
+Name: 46, dtype: object
+Successfully read CTA_data\SBN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\SBN.csv and saved trade record to CTA_result\SBN_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.10132371270521923
+Max Drawdown Per Trade: 0.0022433061587004977
+Gain-to-Pain Ratio Per Trade: 2.0550942197068154
+Processed C:/Users/meng/Desktop/quant/CTA_data\SBN.csv and saved daily record to CTA_result\SBN_long_daily.xlsx
+Sharpe Ratio Daily: 0.036049545044097304
+Max Drawdown Daily: 0.0023224025540846682
+Gain-to-Pain Ratio Daily: 1.390959486575453
+Final Profit: 7.708457544201566
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     SBN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             20.0
+BIAS_OPTIMAL           -14.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1120.0
+Gain-to-Pain Ratio    1.2444
+Final Profits         0.3014
+Number of Trades       432.0
+Name: 47, dtype: object
+Successfully read CTA_data\SBN.csv after preprocessing.
+Processed CTA_result\SBN_long_daily.xlsx and saved trade record to CTA_result\SBN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.0527050560392025
+Max Drawdown Per Trade: 0.000339604977075747
+Gain-to-Pain Ratio Per Trade: 1.2443582795727788
+Processed CTA_result\SBN_long_daily.xlsx and saved daily record to CTA_result\SBN_short_daily.xlsx
+Sharpe Ratio Daily: 0.01102453584733036
+Max Drawdown Daily: 0.000401912476821642
+Gain-to-Pain Ratio Daily: 1.148247894714075
+Final Profit: 0.2445297896288412
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: SBV
+CODE                     SBV
+LONG/SHORT              LONG
+ADX_OPTIMAL             20.0
+BIAS_OPTIMAL             9.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1120.0
+Gain-to-Pain Ratio    1.5301
+Final Profits         8.1724
+Number of Trades       822.0
+Name: 48, dtype: object
+Successfully read CTA_data\SBV.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\SBV.csv and saved trade record to CTA_result\SBV_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.07337201608972692
+Max Drawdown Per Trade: 0.0019121290014904035
+Gain-to-Pain Ratio Per Trade: 1.5301136852554207
+Processed C:/Users/meng/Desktop/quant/CTA_data\SBV.csv and saved daily record to CTA_result\SBV_long_daily.xlsx
+Sharpe Ratio Daily: 0.03388512449563779
+Max Drawdown Daily: 0.002111916336754782
+Gain-to-Pain Ratio Daily: 1.2526478355606427
+Final Profit: 8.137832525173524
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     SBV
+LONG/SHORT             SHORT
+ADX_OPTIMAL             20.0
+BIAS_OPTIMAL           -14.0
+RUN_OR_NOT               RUN
+MULTIPLIER            1120.0
+Gain-to-Pain Ratio     1.257
+Final Profits         0.3258
+Number of Trades       435.0
+Name: 49, dtype: object
+Successfully read CTA_data\SBV.csv after preprocessing.
+Processed CTA_result\SBV_long_daily.xlsx and saved trade record to CTA_result\SBV_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.05601166807533175
+Max Drawdown Per Trade: 0.0002715183177613989
+Gain-to-Pain Ratio Per Trade: 1.2501648117214519
+Processed CTA_result\SBV_long_daily.xlsx and saved daily record to CTA_result\SBV_short_daily.xlsx
+Sharpe Ratio Daily: 0.013778667044212552
+Max Drawdown Daily: 0.0002805129120194705
+Gain-to-Pain Ratio Daily: 1.1871055057424744
+Final Profit: 0.3188287434896661
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: SIZ
+CODE                     SIZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             15.0
+BIAS_OPTIMAL            14.0
+RUN_OR_NOT               RUN
+MULTIPLIER            2500.0
+Gain-to-Pain Ratio    1.3328
+Final Profits         7.1005
+Number of Trades      1014.0
+Name: 50, dtype: object
+Successfully read CTA_data\SIZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\SIZ.csv and saved trade record to CTA_result\SIZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.037371367377975334
+Max Drawdown Per Trade: 0.004175216131001025
+Gain-to-Pain Ratio Per Trade: 1.3162513325928018
+Processed C:/Users/meng/Desktop/quant/CTA_data\SIZ.csv and saved daily record to CTA_result\SIZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.020223452345168036
+Max Drawdown Daily: 0.004335354560144666
+Gain-to-Pain Ratio Daily: 1.1255225628545256
+Final Profit: 7.297959150831269
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     SIZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL           -20.0
+RUN_OR_NOT               RUN
+MULTIPLIER            2500.0
+Gain-to-Pain Ratio    2.3496
+Final Profits         0.5629
+Number of Trades       163.0
+Name: 51, dtype: object
+Successfully read CTA_data\SIZ.csv after preprocessing.
+Processed CTA_result\SIZ_long_daily.xlsx and saved trade record to CTA_result\SIZ_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.17814368522342316
+Max Drawdown Per Trade: 0.00025036948537227044
+Gain-to-Pain Ratio Per Trade: 2.3495822741131787
+Processed CTA_result\SIZ_long_daily.xlsx and saved daily record to CTA_result\SIZ_short_daily.xlsx
+Sharpe Ratio Daily: 0.02994039770128019
+Max Drawdown Daily: 0.00027235582876394826
+Gain-to-Pain Ratio Daily: 2.1038663694254756
+Final Profit: 0.562869037948041
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: SMN
+CODE                     SMN
+LONG/SHORT              LONG
+ADX_OPTIMAL             35.0
+BIAS_OPTIMAL             7.0
+RUN_OR_NOT               RUN
+MULTIPLIER             100.0
+Gain-to-Pain Ratio     1.684
+Final Profits         3.8825
+Number of Trades       357.0
+Name: 52, dtype: object
+Successfully read CTA_data\SMN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\SMN.csv and saved trade record to CTA_result\SMN_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.05930384788703001
+Max Drawdown Per Trade: 0.05187381779243905
+Gain-to-Pain Ratio Per Trade: 1.4071570679121181
+Processed C:/Users/meng/Desktop/quant/CTA_data\SMN.csv and saved daily record to CTA_result\SMN_long_daily.xlsx
+Sharpe Ratio Daily: 0.01560105325516295
+Max Drawdown Daily: 0.05252853484698772
+Gain-to-Pain Ratio Daily: 1.1838471449387846
+Final Profit: 2.6074753314413814
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     SMN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL            -5.0
+RUN_OR_NOT               RUN
+MULTIPLIER             100.0
+Gain-to-Pain Ratio    1.8121
+Final Profits         0.2093
+Number of Trades       111.0
+Name: 53, dtype: object
+Successfully read CTA_data\SMN.csv after preprocessing.
+Processed CTA_result\SMN_long_daily.xlsx and saved trade record to CTA_result\SMN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.1324501058859413
+Max Drawdown Per Trade: 0.0019685335885532007
+Gain-to-Pain Ratio Per Trade: 1.8121005630040108
+Processed CTA_result\SMN_long_daily.xlsx and saved daily record to CTA_result\SMN_short_daily.xlsx
+Sharpe Ratio Daily: 0.02004363083659458
+Max Drawdown Daily: 0.0019460560519698467
+Gain-to-Pain Ratio Daily: 1.7452119818308496
+Final Profit: 0.20929591804775102
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: SMZ
+CODE                     SMZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             20.0
+BIAS_OPTIMAL            12.0
+RUN_OR_NOT               RUN
+MULTIPLIER             100.0
+Gain-to-Pain Ratio    1.4353
+Final Profits         6.6836
+Number of Trades       831.0
+Name: 54, dtype: object
+Successfully read CTA_data\SMZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\SMZ.csv and saved trade record to CTA_result\SMZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.051828772444100855
+Max Drawdown Per Trade: 0.048371003718181704
+Gain-to-Pain Ratio Per Trade: 1.4268527610768325
+Processed C:/Users/meng/Desktop/quant/CTA_data\SMZ.csv and saved daily record to CTA_result\SMZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.02540271379363338
+Max Drawdown Daily: 0.0586161957838085
+Gain-to-Pain Ratio Daily: 1.162487225249902
+Final Profit: 6.502221085701824
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                     SMZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL            -8.0
+RUN_OR_NOT               RUN
+MULTIPLIER             100.0
+Gain-to-Pain Ratio    1.6851
+Final Profits         0.2756
+Number of Trades       127.0
+Name: 55, dtype: object
+Successfully read CTA_data\SMZ.csv after preprocessing.
+Processed CTA_result\SMZ_long_daily.xlsx and saved trade record to CTA_result\SMZ_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.0950834286555883
+Max Drawdown Per Trade: 0.005637391764790944
+Gain-to-Pain Ratio Per Trade: 1.6658753903965207
+Processed CTA_result\SMZ_long_daily.xlsx and saved daily record to CTA_result\SMZ_short_daily.xlsx
+Sharpe Ratio Daily: 0.014152589102637647
+Max Drawdown Daily: 0.005696401908118265
+Gain-to-Pain Ratio Daily: 1.6013807028989921
+Final Profit: 0.2680269142252035
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: SN
+CODE                      SN
+LONG/SHORT              LONG
+ADX_OPTIMAL             25.0
+BIAS_OPTIMAL             7.0
+RUN_OR_NOT               RUN
+MULTIPLIER            5000.0
+Gain-to-Pain Ratio    1.2787
+Final Profits         2.7743
+Number of Trades       633.0
+Name: 56, dtype: object
+Successfully read CTA_data\SN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\SN.csv and saved trade record to CTA_result\SN_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.04650125298374629
+Max Drawdown Per Trade: 0.1956940347665007
+Gain-to-Pain Ratio Per Trade: 1.2770556492756724
+Processed C:/Users/meng/Desktop/quant/CTA_data\SN.csv and saved daily record to CTA_result\SN_long_daily.xlsx
+Sharpe Ratio Daily: 0.016553429964450226
+Max Drawdown Daily: 0.1968248226671797
+Gain-to-Pain Ratio Daily: 1.1297745359615277
+Final Profit: 2.804641052722498
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                      SN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             25.0
+BIAS_OPTIMAL            -7.0
+RUN_OR_NOT               RUN
+MULTIPLIER            5000.0
+Gain-to-Pain Ratio    1.3303
+Final Profits         0.2123
+Number of Trades       229.0
+Name: 57, dtype: object
+Successfully read CTA_data\SN.csv after preprocessing.
+Processed CTA_result\SN_long_daily.xlsx and saved trade record to CTA_result\SN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.03913490928094135
+Max Drawdown Per Trade: 0.011815662049284525
+Gain-to-Pain Ratio Per Trade: 1.1931037440315182
+Processed CTA_result\SN_long_daily.xlsx and saved daily record to CTA_result\SN_short_daily.xlsx
+Sharpe Ratio Daily: 0.00678562954352727
+Max Drawdown Daily: 0.01204039669575141
+Gain-to-Pain Ratio Daily: 1.145605022379707
+Final Profit: 0.12279935337143769
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: SUCZ
+CODE                     SUCZ
+LONG/SHORT               LONG
+ADX_OPTIMAL              35.0
+BIAS_OPTIMAL             14.0
+RUN_OR_NOT                NaN
+MULTIPLIER            14000.0
+Gain-to-Pain Ratio     2.6457
+Final Profits          5.7434
+Number of Trades        309.0
+Name: 58, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\SUCZ.csv as per strategy instruction.
+CODE                     SUCZ
+LONG/SHORT              SHORT
+ADX_OPTIMAL              25.0
+BIAS_OPTIMAL            -12.0
+RUN_OR_NOT                NaN
+MULTIPLIER            14000.0
+Gain-to-Pain Ratio     1.7829
+Final Profits          0.3507
+Number of Trades        288.0
+Name: 59, dtype: object
+Skipping C:/Users/meng/Desktop/quant/CTA_data\SUCZ.csv as per strategy instruction.
+Contract Code: SX
+CODE                      SX
+LONG/SHORT              LONG
+ADX_OPTIMAL             15.0
+BIAS_OPTIMAL             8.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.5069
+Final Profits         7.2896
+Number of Trades      1099.0
+Name: 60, dtype: object
+Successfully read CTA_data\SX.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\SX.csv and saved trade record to CTA_result\SX_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.06864357617188378
+Max Drawdown Per Trade: 0.11899731376023581
+Gain-to-Pain Ratio Per Trade: 1.5232678405280384
+Processed C:/Users/meng/Desktop/quant/CTA_data\SX.csv and saved daily record to CTA_result\SX_long_daily.xlsx
+Sharpe Ratio Daily: 0.03604558092175241
+Max Drawdown Daily: 0.13417518697958852
+Gain-to-Pain Ratio Daily: 1.2130342481964131
+Final Profit: 7.429503777815479
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                      SX
+LONG/SHORT             SHORT
+ADX_OPTIMAL             30.0
+BIAS_OPTIMAL            -4.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.6028
+Final Profits         0.1781
+Number of Trades       153.0
+Name: 61, dtype: object
+Successfully read CTA_data\SX.csv after preprocessing.
+Processed CTA_result\SX_long_daily.xlsx and saved trade record to CTA_result\SX_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.08851136488640293
+Max Drawdown Per Trade: 0.007970437439814848
+Gain-to-Pain Ratio Per Trade: 1.5038004371585232
+Processed CTA_result\SX_long_daily.xlsx and saved daily record to CTA_result\SX_short_daily.xlsx
+Sharpe Ratio Daily: 0.013980702150663972
+Max Drawdown Daily: 0.008304490616949267
+Gain-to-Pain Ratio Daily: 1.4306332613970696
+Final Profit: 0.14877156337932196
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: WN
+CODE                      WN
+LONG/SHORT              LONG
+ADX_OPTIMAL             40.0
+BIAS_OPTIMAL            12.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    2.2027
+Final Profits          2.543
+Number of Trades        87.0
+Name: 62, dtype: object
+Successfully read CTA_data\WN.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\WN.csv and saved trade record to CTA_result\WN_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.10631051793378896
+Max Drawdown Per Trade: 0.052822660582839576
+Gain-to-Pain Ratio Per Trade: 2.2026880629499184
+Processed C:/Users/meng/Desktop/quant/CTA_data\WN.csv and saved daily record to CTA_result\WN_long_daily.xlsx
+Sharpe Ratio Daily: 0.017542119674479984
+Max Drawdown Daily: 0.05559084271466219
+Gain-to-Pain Ratio Daily: 1.5110574477530532
+Final Profit: 2.543015777750719
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                      WN
+LONG/SHORT             SHORT
+ADX_OPTIMAL             20.0
+BIAS_OPTIMAL           -16.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.7267
+Final Profits         0.9743
+Number of Trades       439.0
+Name: 63, dtype: object
+Successfully read CTA_data\WN.csv after preprocessing.
+Processed CTA_result\WN_long_daily.xlsx and saved trade record to CTA_result\WN_short_trades.xlsx
+Sharpe Ratio Per Trade: 0.0885726926642863
+Max Drawdown Per Trade: 0.007924283573563895
+Gain-to-Pain Ratio Per Trade: 1.6056779398480798
+Processed CTA_result\WN_long_daily.xlsx and saved daily record to CTA_result\WN_short_daily.xlsx
+Sharpe Ratio Daily: 0.022830602292207413
+Max Drawdown Daily: 0.008359526243580273
+Gain-to-Pain Ratio Daily: 1.4942921908942457
+Final Profit: 0.8040684630187066
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+Contract Code: WZ
+CODE                      WZ
+LONG/SHORT              LONG
+ADX_OPTIMAL             35.0
+BIAS_OPTIMAL            16.0
+RUN_OR_NOT               RUN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.7456
+Final Profits         3.9802
+Number of Trades       216.0
+Name: 64, dtype: object
+Successfully read CTA_data\WZ.csv after preprocessing.
+Processed C:/Users/meng/Desktop/quant/CTA_data\WZ.csv and saved trade record to CTA_result\WZ_long_trades.xlsx
+Sharpe Ratio Per Trade: 0.07313893219215263
+Max Drawdown Per Trade: 0.07261306138572166
+Gain-to-Pain Ratio Per Trade: 1.7456248190736245
+Processed C:/Users/meng/Desktop/quant/CTA_data\WZ.csv and saved daily record to CTA_result\WZ_long_daily.xlsx
+Sharpe Ratio Daily: 0.020287424635047815
+Max Drawdown Daily: 0.07868329751830394
+Gain-to-Pain Ratio Daily: 1.3030787265117827
+Final Profit: 3.98021092840489
+Aggregated profits saved to: CTA_result\monetary_daily_profit.csv
+CODE                      WZ
+LONG/SHORT             SHORT
+ADX_OPTIMAL             25.0
+BIAS_OPTIMAL            -4.0
+RUN_OR_NOT               NaN
+MULTIPLIER              50.0
+Gain-to-Pain Ratio    1.2221
+Final Profits          0.178
+Number of Trades       273.0
+Name: 65, dtype: object
+Skipping CTA_result\WZ_long_daily.xlsx as per strategy instruction.
