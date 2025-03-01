@@ -2,7 +2,7 @@
 This work is a gift for the upcoming fund.<br>
 It applies trend following strategy to all relevant contracts and suggests implementation in terms of a dashboard refreshing in a daily basis to a human trader.
 ## author
-Yifu Zhu  Jiaxu Meng <br>
+Jiaxu Meng   Yifu Zhu<br>
 ## content
 * <code>metrics_long</code>: long trend following strategy [if the condition for opening a new position is not met, consider whether the conditions for stopping pervious PnL are met] & performance metrics per trade<br>
 * <code>metrics_short</code>: short trend following strategy [if the condition for opening a new position is not met, consider whether the conditions for stopping pervious PnL are met] & performance metrics per trade<br>
